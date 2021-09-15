@@ -1,4 +1,4 @@
-Hello, I'm Denver B. Arancillo, an Associate Software Engineer at Deltek Systems (Philippines) Ltd., mainly working on automation development and some system development for the team.
+Hello, I'm Denver B. Arancillo, an Associate Software Engineer at Deltek Systems (Philippines) Ltd., mainly working on automation development and some web development for the team.
 
 My personal project I am currently working on is a [inventory](https://github.com/DenverArancillo/inventory) system, where I try to learn front and back end frameworks.
 
